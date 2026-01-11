@@ -170,8 +170,8 @@ function App() {
       </section>
 
       <footer>
-        <p>© 2024 Sri Lanka Express Bus Service. All rights reserved.</p>
-        <p>24/7 Customer Support: +94 11 234 5678</p>
+        <p>© 2026  Sri Lanka Express Bus Service. All rights reserved.</p>
+        <p>24/7 Customer Support: +94 12 345 6789</p>
       </footer>
     </div>
   );
